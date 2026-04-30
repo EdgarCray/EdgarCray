@@ -1,0 +1,31 @@
+<svg width="900" height="200" xmlns="http://www.w3.org/2000/svg">
+  <!-- Fondo amarillo pastel -->
+  <rect width="900" height="200" fill="#FDFD96" rx="0"/>
+
+  <!-- Ola decorativa inferior -->
+  <path d="M0,140 C150,180 300,110 450,150 C600,190 750,120 900,155 L900,200 L0,200 Z" fill="#F5C542" opacity="0.6"/>
+  <path d="M0,160 C120,140 280,175 450,160 C620,145 780,170 900,155 L900,200 L0,200 Z" fill="#EAB308" opacity="0.4"/>
+
+  <!-- Puntos decorativos -->
+  <circle cx="60" cy="40" r="6" fill="#EAB308" opacity="0.7"/>
+  <circle cx="100" cy="25" r="4" fill="#EAB308" opacity="0.5"/>
+  <circle cx="840" cy="40" r="6" fill="#EAB308" opacity="0.7"/>
+  <circle cx="800" cy="22" r="4" fill="#EAB308" opacity="0.5"/>
+  <circle cx="820" cy="60" r="3" fill="#EAB308" opacity="0.4"/>
+  <circle cx="75" cy="62" r="3" fill="#EAB308" opacity="0.4"/>
+
+  <!-- Líneas decorativas esquinas -->
+  <line x1="30" y1="15" x2="30" y2="45" stroke="#1a1a1a" stroke-width="2" opacity="0.2"/>
+  <line x1="15" y1="30" x2="45" y2="30" stroke="#1a1a1a" stroke-width="2" opacity="0.2"/>
+  <line x1="870" y1="15" x2="870" y2="45" stroke="#1a1a1a" stroke-width="2" opacity="0.2"/>
+  <line x1="855" y1="30" x2="885" y2="30" stroke="#1a1a1a" stroke-width="2" opacity="0.2"/>
+
+  <!-- Nombre principal -->
+  <text x="450" y="95" font-family="Georgia, serif" font-size="72" font-weight="bold" fill="#1a1a1a" text-anchor="middle" letter-spacing="4">EdgarCray</text>
+
+  <!-- Línea separadora -->
+  <line x1="280" y1="110" x2="620" y2="110" stroke="#1a1a1a" stroke-width="1.5" opacity="0.25"/>
+
+  <!-- Subtítulo -->
+  <text x="450" y="135" font-family="Georgia, serif" font-size="16" fill="#555555" text-anchor="middle" letter-spacing="2">Creative Developer  ✦  UX/UI Designer</text>
+</svg>
