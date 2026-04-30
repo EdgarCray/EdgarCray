@@ -21,7 +21,7 @@
   <line x1="855" y1="30" x2="885" y2="30" stroke="#1a1a1a" stroke-width="2" opacity="0.2"/>
 
   <!-- Nombre principal -->
-  <text x="450" y="95" font-family="Georgia, serif" font-size="72" font-weight="bold" fill="#1a1a1a" text-anchor="middle" letter-spacing="4">EdgarCray</text>
+  <text x="450" y="95" font-family="Georgia, serif" font-size="72" font-weight="bold" fill="#1a1a1a" text-anchor="middle" letter-spacing="4">Edgar Emmanuel</text>
 
   <!-- Línea separadora -->
   <line x1="280" y1="110" x2="620" y2="110" stroke="#1a1a1a" stroke-width="1.5" opacity="0.25"/>
