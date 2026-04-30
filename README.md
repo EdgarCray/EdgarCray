@@ -8,10 +8,6 @@
 
 </div>
 
-
-
-
-
 <br>
 
 <!-- Badges de identidad -->
@@ -37,15 +33,15 @@
 
 <img align="right" src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="120px" />
 
-Soy un **Diseñador UX/UI** que encontró en la programación su superpoder.
+Soy un **Diseñador UX/UI** con conocimientos en desarrollo de software.
 
 No me conformo con que algo funcione — necesito que también **se sienta bien**, que cuente una historia, que deje huella. Cada proyecto es un lienzo donde la lógica y la estética compiten por protagonismo... y siempre ganan los dos.
 
-&nbsp;&nbsp;🎨 &nbsp;Interfaces **limpias, pastel y llenas de personalidad**  
+&nbsp;&nbsp;🎨 &nbsp;Interfaces **limpias, funcionales y llenas de personalidad**  
 &nbsp;&nbsp;⚡ &nbsp;Apasionado del **amarillo** — energía pura en forma de color  
 &nbsp;&nbsp;📐 &nbsp;Arquitecto de experiencias, no solo de pantallas  
 &nbsp;&nbsp;🚀 &nbsp;Siempre aprendiendo, siempre iterando  
-&nbsp;&nbsp;💡 &nbsp;Creo que el mejor diseño es el que **no se nota**
+&nbsp;&nbsp;💡 &nbsp;Creo que el mejor diseño es el que **no genera dudas**
 
 <br clear="right"/>
 
@@ -56,17 +52,6 @@ No me conformo con que algo funcione — necesito que también **se sienta bien*
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 ## 🎨 Mi Proceso de Diseño
-
-<div align="center">
-  <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="130px" />
-  &nbsp;&nbsp;
-  <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="26px"/>
-  &nbsp;&nbsp;
-  <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="100px" />
-</div>
-
-<br>
-
 <!-- Paso 1 -->
 <div align="center">
   <img src="https://img.shields.io/badge/01──────────────────────────────────────────────────────────────────────────────────────────────────────%20EMPATIZAR-FDFD96?style=for-the-badge&logoColor=1a1a1a" width="100%"/>
@@ -74,7 +59,7 @@ No me conformo con que algo funcione — necesito que también **se sienta bien*
 
 <div align="center">
 
-> 👁️ &nbsp; **Entender al usuario antes de teclear una sola línea.** &nbsp; User interviews · Mapas de empatía · Análisis de competencia
+>  &nbsp; **Entender al usuario antes de teclear una sola línea.** &nbsp; User interviews · Mapas de empatía · Análisis de competencia
 
 </div>
 
@@ -85,7 +70,7 @@ No me conformo con que algo funcione — necesito que también **se sienta bien*
 
 <div align="center">
 
-> 🎯 &nbsp; **Clarificar el problema real, no el problema asumido.** &nbsp; Information Architecture · Card sorting · User flows
+>  &nbsp; **Clarificar el problema real, no el problema asumido.** &nbsp; Information Architecture · Card sorting · User flows
 
 </div>
 
@@ -96,7 +81,7 @@ No me conformo con que algo funcione — necesito que también **se sienta bien*
 
 <div align="center">
 
-> 💡 &nbsp; **Explorar sin límites, filtrar con criterio.** &nbsp; Paletas pastel · Tipografía editorial · Sistemas de diseño
+>  &nbsp; **Explorar sin límites, filtrar con criterio.** &nbsp; Paletas pastel · Tipografía editorial · Sistemas de diseño
 
 </div>
 
@@ -107,7 +92,7 @@ No me conformo con que algo funcione — necesito que también **se sienta bien*
 
 <div align="center">
 
-> 🖌️ &nbsp; **Wireframes → Mockups → Prototipos hi-fi en Figma.** &nbsp; Flows · Micro-interacciones · Componentes reutilizables
+>  &nbsp; **Wireframes → Mockups → Prototipos hi-fi en Figma.** &nbsp; Flows · Micro-interacciones · Componentes reutilizables
 
 </div>
 
@@ -118,14 +103,13 @@ No me conformo con que algo funcione — necesito que también **se sienta bien*
 
 <div align="center">
 
-> ⌨️ &nbsp; **Convertir el diseño en código real, pixel perfect.** &nbsp; Kotlin · React · CSS · Firebase
+>  &nbsp; **Convertir el diseño en código real, pixel perfect.** &nbsp; Kotlin · React · JavaScript · Firebase
 
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=figma&theme=light" />
   &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Figma-Mi_herramienta_principal_de_diseño-1a1a1a?style=for-the-badge&logo=figma&logoColor=FDFD96" />
 </div>
@@ -136,11 +120,7 @@ No me conformo con que algo funcione — necesito que también **se sienta bien*
 <!--                    MOBILE DEV                              -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-## 📱 Desarrollo Móvil
-
-<div align="center">
-  <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="130px" />
-</div>
+##  Desarrollo Móvil
 
 <br>
 
@@ -156,9 +136,9 @@ No me conformo con que algo funcione — necesito que también **se sienta bien*
 
 | | Tecnología | Especialidad |
 |:---:|:---|:---|
-| <img width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg"/> | **Kotlin** | Android Nativo · Clean Architecture |
+| <img width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg"/> | **Kotlin** | Android Nativo · MVVM |
 | <img width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg"/> | **Android Studio** | Entorno principal de desarrollo |
-| <img width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"/> | **Firebase** | Auth · Firestore · Cloud Functions |
+| <img width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"/> | **Firebase** | Auth · Firestore · Realtime DB |
 | <img width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/> | **React Native** | Apps cross-platform con alma nativa |
 
 </div>
@@ -169,11 +149,7 @@ No me conformo con que algo funcione — necesito que también **se sienta bien*
 <!--                      WEB DEV                               -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-## 🌐 Desarrollo Web
-
-<div align="center">
-  <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="200px" />
-</div>
+##  Desarrollo Web
 
 <br>
 
@@ -232,21 +208,12 @@ No me conformo con que algo funcione — necesito que también **se sienta bien*
 ## 🧪 Proyectos Destacados
 
 <div align="center">
-  <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="18px"/>
-  <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="24px"/>
-  <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="18px"/>
-</div>
-
-<br>
-
-<div align="center">
 
 | Proyecto | Descripción | Stack |
 |:---:|:---|:---:|
-| 🖼️ **Portfolio Artístico** | Galería interactiva con alma visual y diseño minimalista | UX/UI · Web |
-| 📱 **Android Native App** | Arquitectura limpia, rendimiento fluido y experiencia pulida | Kotlin · Firebase |
-| ⚙️ **Terminal WhatsApp** | Motor de mensajería automatizada robusto y eficiente | C# · .NET |
-| 🔌 **Arduino IoT** | Donde el hardware se conecta con el mundo digital | Arduino · Python |
+|  **Agroomy V1** | App de gestión de cultivos | Kotlin · Firebase |
+|  **Terminal WhatsApp** | Mensajería de Whatsapp mendiante terminal, robusto y eficiente | C# · .NET |
+|  **Agroomy IoT** | Conexión de sensores con Firebase | Arduino · Python |
 
 </div>
 
@@ -256,18 +223,7 @@ No me conformo con que algo funcione — necesito que también **se sienta bien*
 <!--                     ESTADÍSTICAS                           -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-## 📊 Estadísticas
-
-<div align="center">
-  <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="160px" />
-  &nbsp;&nbsp;
-  <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="28px"/>
-  <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="28px"/>
-  <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="28px"/>
-</div>
-
-<br>
-
+## Estadísticas
 <p align="center">
   <img height="175em" src="https://github-readme-stats.vercel.app/api?username=EdgarCray&show_icons=true&theme=transparent&title_color=C8A800&icon_color=C8A800&text_color=666&border_color=FDFD96&border_radius=14" />
   <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdgarCray&layout=compact&theme=transparent&title_color=C8A800&text_color=666&border_color=FDFD96&border_radius=14" />
@@ -280,46 +236,10 @@ No me conformo con que algo funcione — necesito que también **se sienta bien*
 ---
 
 <!-- ═══════════════════════════════════════════════════════════ -->
-<!--                      FILOSOFÍA                             -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-## 💛 Filosofía
-
-<div align="center">
-  <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="90px" />
-</div>
-
-<br>
-
-<div align="center">
-
-*"El código es la estructura, pero el diseño es el alma."*
-
-<br>
-
-**Si no se ve bien — todavía no está terminado.**
-
-<br>
-
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="16px" />
-&nbsp;Actualmente explorando: **animaciones en mobile** · **design systems** · **IA en apps nativas**&nbsp;
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="16px" />
-
-</div>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════ -->
 <!--                      CONTACTO                              -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-## 🤝 Hablemos
-
-<div align="center">
-  <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="100px" />
-</div>
-
-<br>
+## Hablemos
 
 > ¿Buscas a alguien que pueda diseñar el producto **y** escribir el código que lo sustenta?  
 > Ese es exactamente mi lugar favorito para trabajar.
@@ -329,30 +249,7 @@ No me conformo con que algo funcione — necesito que también **se sienta bien*
     <img src="https://img.shields.io/badge/LinkedIn-EdgarCray-FDFD96?style=for-the-badge&logo=linkedin&logoColor=1A1A2E&labelColor=F5C542" />
   </a>
   &nbsp;
-  <a href="mailto:TU_EMAIL">
+  <a href="mailto:edgarvelezmendez@hotmail.com">
     <img src="https://img.shields.io/badge/Gmail-Escríbeme-FDFD96?style=for-the-badge&logo=gmail&logoColor=1A1A2E&labelColor=F5C542" />
   </a>
 </p>
-
----
-
-<!-- Footer -->
-<div align="center">
-  <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="18px"/>
-  &nbsp;
-  <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="24px"/>
-  &nbsp;
-  <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="40px"/>
-  &nbsp;
-  <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="24px"/>
-  &nbsp;
-  <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="18px"/>
-
-  <br><br>
-
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=FDFD96&height=4&section=footer" width="80%"/>
-
-  <br><br>
-
-  <sub>Hecho con 💛 y mucho café por <a href="https://github.com/EdgarCray"><b>@EdgarCray</b></a></sub>
-</div>
